@@ -1,0 +1,9 @@
+<resources>
+
+    <style name="Widget.Theme.TP3.MyView" parent="">
+        <item name="android:background">@color/gray_400</item>
+    </style>
+    <style name="noAnimTheme" parent="android:Theme">
+        <item name="android:windowAnimationStyle">@null</item>
+    </style>
+</resources>

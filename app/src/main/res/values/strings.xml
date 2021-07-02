@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">TP3</string>
+    <string name="tab_text_1">Offres</string>
+    <string name="tab_text_2">Vendre</string>
+    <string name="tab_text_3">Mes Annonces</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_fragment_1">Hello fragment 1</string>
+    <string name="hello_fragment_2">Hello fragment 2</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_edit_text">MainActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+    <string-array name="transmission_array">
+        <item>MA</item>
+        <item>AT</item>
+        <item>SM</item>
+    </string-array>
+</resources>
